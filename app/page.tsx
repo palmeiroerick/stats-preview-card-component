@@ -29,7 +29,7 @@ const Home = () => {
           Discover the benefits of data analytics and make better decisions
           regarding revenue, customer experience, and overall efficiency.
         </p>
-        <div className="mt-4 flex flex-col gap-4 lg:mt-12 lg:flex-row">
+        <div className="mt-4 flex flex-col gap-4 lg:mt-12 lg:flex-row lg:gap-12">
           <div className="flex flex-col items-center gap-1 lg:items-start">
             <h2 className="font-inter text-2xl font-bold text-white">10k+</h2>
             <h3 className="font-lexendDeca text-xs uppercase tracking-widest text-slightlyTransparentWhiteStat">
