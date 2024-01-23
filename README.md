@@ -17,12 +17,12 @@ Users should be able to:
 
 ## Screenshot
 
-![]()
+![Screen Shot 2024-01-22 at 21 58 41](https://github.com/palmeiroerick/stats-preview-card-component/assets/148393698/62cdd000-7b2a-4fb9-8ad7-ecaa6473e93c)
 
 ## Links
 
-- [Solution]()
-- [Live Site]()
+- [Solution](https://github.com/palmeiroerick/stats-preview-card-component)
+- [Live Site](https://stats-preview-card-component-eta-mocha.vercel.app/)
 
 ## Built with
 
